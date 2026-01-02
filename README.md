@@ -31,7 +31,7 @@ Currently working on full stack projects and learning a bit about AI._
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />  
+<img src="https://skillicons.dev/icons?i=git" height="28" alt="git logo" />  
 
 # 🌟 Projects:
 ## [DPM Navigation System](https://github.com/MinhVo2005/DPM_navigation_system)

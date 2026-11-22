@@ -1,5 +1,5 @@
 # 💫 About Me:
-_U2 Software Engineering student at McGill University.  
+_U3 Software Engineering student at McGill University.  
 Currently working on full stack projects and learning networking and AI._
 
 ## 🌐 Socials:
